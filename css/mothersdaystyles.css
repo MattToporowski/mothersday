@@ -1,0 +1,113 @@
+body {
+
+	background-image: url("../images/mothersdaybackground.dms");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 800px;
+
+}
+
+h1{
+	color: black;
+	font-family: 'Leckerli One', cursive;
+	text-align: center;
+	font-size: 45px;
+	font-weight: bolder;
+}
+
+h2{
+	color: black;
+	font-family: 'Courgette', cursive;
+	text-align: center;
+	font-size: 30px;
+}
+
+#imageBox {
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.navButton {
+	width: 10%;
+	float: right;
+}
+
+#picWindow {
+	width: 70%;
+	float: right;
+}
+
+.arrowButtons {
+	width: 50%;
+	margin-top: 170%;
+}
+
+.arrowButtons:hover{
+	width: 50%;
+	margin-top: 170%;
+	opacity: 0.75;
+}
+
+
+#image0 {  
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#image1 {  
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#image2 {  
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#image3 {  
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#image4 {  
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#image5 {  
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#image6 {  
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#image7 {  
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#image8 {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#image9 {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
